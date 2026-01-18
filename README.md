@@ -13,3 +13,5 @@ To test.
 Restarting Obsidian does not seem to resolve the issue.
 
 This is happening on 1.11.4 and also on 1.10.6
+
+Video of the issue: ![[issue.mkv]]
