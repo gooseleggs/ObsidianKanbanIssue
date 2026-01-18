@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - status == "Testing / 3rd Party"
+    order:
+      - file.name
+      - status

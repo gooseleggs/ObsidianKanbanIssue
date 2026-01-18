@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c9d2c9c1e06b7d6e","type":"text","text":"### Dataview In Progress\n\n```dataview\nTable status as Status, file.inlinks as \"Project\"\nFROM \"Kanban Boards\" \nWHERE (status = \"InProgress\")\n```","x":-942,"y":-840,"width":460,"height":430,"color":"3"},
+		{"id":"b8e7f8586709268c","type":"text","text":"### Dataview Testing / 3rd Party\n\n```dataview\nTable status as Status, file.inlinks as \"Project\"\nFROM \"Kanban Boards\" \nWHERE (status = \"Testing / 3rd Party\")\n```","x":-942,"y":-380,"width":460,"height":355,"color":"3"},
+		{"id":"df7f20ab7db69115","type":"text","text":"### Bases - In Progress\n\n![[Base - In Progress Base.base]]\n\n","x":-440,"y":-840,"width":422,"height":430,"color":"5"},
+		{"id":"d5061ca18f4edbd3","type":"text","text":"### Bases - Testing / 3rd Party\n![[Base - Testing or 3rd Party.base]]","x":-440,"y":-381,"width":422,"height":358,"color":"5"}
+	],
+	"edges":[]
+}
