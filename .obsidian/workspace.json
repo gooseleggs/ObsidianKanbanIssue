@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "42b3427cb65f229b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7673eda180d0a0ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9135fdf92cb5d5c0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f5007e2bf32cb83d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -480,
+                  "y": -431.5,
+                  "zoom": 0
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "53ab64466b641667",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban Boards/Test Kanban/test Kanban Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "436d852dc27c8e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c12c354ca757932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46b4f993ca69044",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f757929d8ae3661",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd9253f43d39176b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e5f4fa629939fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "de8d400440e41362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f85a2683122a16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "In Progress Base.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for In Progress Base"
+            }
+          },
+          {
+            "id": "6328e7361ca81c9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "In Progress Base.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from In Progress Base"
+            }
+          },
+          {
+            "id": "120663863948dff8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e729f93a8042d581",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5a50624fc5c23410",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "In Progress Base.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of In Progress Base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9135fdf92cb5d5c0",
+  "lastOpenFiles": [
+    "Homepage.canvas",
+    "Kanban Boards/Test Kanban/test Kanban Board.md",
+    "README.md",
+    "Kanban Boards/Test Kanban/Cards/My Second Card.md",
+    "Base - In Progress Base.base",
+    "Base - Testing or 3rd Party.base",
+    "Kanban Boards/Test Kanban/Cards/My First Card.md",
+    "Templates/Kanban Note Template.md",
+    "Welcome.md",
+    "Kanban Boards/Test Kanban/Cards",
+    "Kanban Boards/Test Kanban",
+    "Templates",
+    "Kanban Boards"
+  ]
+}
